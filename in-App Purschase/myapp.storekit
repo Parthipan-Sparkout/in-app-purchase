@@ -1,0 +1,159 @@
+{
+  "identifier" : "B992F04B",
+  "nonRenewingSubscriptions" : [
+
+  ],
+  "products" : [
+    {
+      "displayPrice" : "0.0",
+      "familyShareable" : false,
+      "internalID" : "6445285458",
+      "localizations" : [
+        {
+          "description" : "You Will Get Color Themes For Demo",
+          "displayName" : "Color Themes For Demo",
+          "locale" : "en_GB"
+        }
+      ],
+      "productID" : "com.UnitTestExample.themes",
+      "referenceName" : "Color Themes",
+      "type" : "NonConsumable"
+    },
+    {
+      "displayPrice" : "0.99",
+      "familyShareable" : false,
+      "internalID" : "6445285384",
+      "localizations" : [
+        {
+          "description" : "Test User Only",
+          "displayName" : "Test",
+          "locale" : "en_GB"
+        }
+      ],
+      "productID" : "com.UnitTestExample.lifes",
+      "referenceName" : "Get Lifes",
+      "type" : "Consumable"
+    }
+  ],
+  "settings" : {
+    "_applicationInternalID" : "1539273568",
+    "_developerTeamID" : "6CWF679Z8N",
+    "_lastSynchronizedDate" : 694694366.71085596
+  },
+  "subscriptionGroups" : [
+    {
+      "id" : "21116356",
+      "localizations" : [
+
+      ],
+      "name" : "Monthly Subscription",
+      "subscriptions" : [
+        {
+          "adHocOffers" : [
+
+          ],
+          "codeOffers" : [
+
+          ],
+          "displayPrice" : "1.99",
+          "familyShareable" : false,
+          "groupNumber" : 4,
+          "internalID" : "6445317658",
+          "introductoryOffer" : null,
+          "localizations" : [
+
+          ],
+          "productID" : "MonthlySubscriptionTen",
+          "recurringSubscriptionPeriod" : "P1M",
+          "referenceName" : "Monthly-10",
+          "subscriptionGroupID" : "21116356",
+          "type" : "RecurringSubscription"
+        },
+        {
+          "adHocOffers" : [
+
+          ],
+          "codeOffers" : [
+
+          ],
+          "displayPrice" : "2.99",
+          "familyShareable" : false,
+          "groupNumber" : 3,
+          "internalID" : "6445316942",
+          "introductoryOffer" : null,
+          "localizations" : [
+
+          ],
+          "productID" : "monthly15",
+          "recurringSubscriptionPeriod" : "P1M",
+          "referenceName" : "Monthy-15",
+          "subscriptionGroupID" : "21116356",
+          "type" : "RecurringSubscription"
+        },
+        {
+          "adHocOffers" : [
+
+          ],
+          "codeOffers" : [
+
+          ],
+          "displayPrice" : "0.99",
+          "familyShareable" : false,
+          "groupNumber" : 1,
+          "internalID" : "6445316945",
+          "introductoryOffer" : null,
+          "localizations" : [
+            {
+              "description" : "MonthlySubscription",
+              "displayName" : "Monthly",
+              "locale" : "en_GB"
+            }
+          ],
+          "productID" : "MonthlySubscription",
+          "recurringSubscriptionPeriod" : "P1M",
+          "referenceName" : "Monthy-5",
+          "subscriptionGroupID" : "21116356",
+          "type" : "RecurringSubscription"
+        }
+      ]
+    },
+    {
+      "id" : "21114271",
+      "localizations" : [
+
+      ],
+      "name" : "Pro Subscription Demo",
+      "subscriptions" : [
+        {
+          "adHocOffers" : [
+
+          ],
+          "codeOffers" : [
+
+          ],
+          "displayPrice" : "0.99",
+          "familyShareable" : false,
+          "groupNumber" : 1,
+          "internalID" : "6445285443",
+          "introductoryOffer" : null,
+          "localizations" : [
+            {
+              "description" : "Get Unlimited Features",
+              "displayName" : "Pro User",
+              "locale" : "en_GB"
+            }
+          ],
+          "productID" : "com.UnitTestExample.prouser",
+          "recurringSubscriptionPeriod" : "P1M",
+          "referenceName" : "Pro User",
+          "subscriptionGroupID" : "21114271",
+          "type" : "RecurringSubscription"
+        }
+      ]
+    }
+  ],
+  "version" : {
+    "major" : 2,
+    "minor" : 0
+  }
+}
